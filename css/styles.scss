@@ -58,6 +58,10 @@ ul {
 		display: block;
 		height: 30px;
 		width: 500px;
+		border: 1px solid #cdcdcd;
+		background: url(../img/voice.gif) no-repeat;
+		background-position: right 5px center;
+		background-size: 14px 19px;
 	}
 
 	#search_btn {
@@ -87,6 +91,7 @@ footer {
 
 	#footer_left {
 		margin: 0 0 0 20px;
+		color: #666;
 
 		li {
 			padding: 0 0 0 10px;
