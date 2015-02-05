@@ -1,0 +1,1 @@
+The basic front-end of the Google Homepage. I'll implementing my "search page redesign" very soon.
